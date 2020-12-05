@@ -1,0 +1,14 @@
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\bin\Debug\MyEnigma.exe.config
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\bin\Debug\MyEnigma.exe
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\bin\Debug\MyEnigma.pdb
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\obj\Debug\MyEnigma.csprojAssemblyReference.cache
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\obj\Debug\MyEnigma.Properties.Resources.resources
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\obj\Debug\MyEnigma.csproj.GenerateResource.cache
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\obj\Debug\MyEnigma.csproj.CoreCompileInputs.cache
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\obj\Debug\MyEnigma.exe
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\obj\Debug\MyEnigma.pdb
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\obj\Debug\MyEnigma.Enigma.resources
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\obj\Debug\MyEnigma.Settings.resources
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\obj\Debug\MyEnigma.Information.resources
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\obj\Debug\MyEnigma.Icons.resources
+C:\Users\KIRILL\source\repos\Курсач\MyEnigma\MyEnigma\obj\Debug\MyEnigma.Img_Form.resources
